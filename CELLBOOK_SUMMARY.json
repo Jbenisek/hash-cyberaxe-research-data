@@ -1,0 +1,12 @@
+{
+  "schema": "hashsmash-cellbook-v1",
+  "records": 1227001,
+  "groups": 373,
+  "source_occurrences": 1265678,
+  "source_states": {
+    "imported": 5898,
+    "needs-adapter": 100
+  },
+  "source_count_including_pending_adapters": 5998,
+  "interpretation": "Typed source records with retained editions. Statuses are recorded author/solver outcomes, not fresh verification. Group rounds use explicit target metadata, never notebook row coordinates."
+}

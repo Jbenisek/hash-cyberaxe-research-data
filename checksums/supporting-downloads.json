@@ -1,0 +1,521 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "downloads/b32-schedule-records.json": {
+      "bytes": 7654,
+      "sha256": "6c8397ce4cc967c3c2701915d5c3ddb9d4fc4e2f327d8b0133187f0a9776c2e9"
+    },
+    "downloads/b32-schedule-v2-records.json": {
+      "bytes": 11154,
+      "sha256": "be99263dfcb05708a7354c8e71aa24bf56f019a960474132714510d7ca48b734"
+    },
+    "downloads/b32-schedules-README.txt": {
+      "bytes": 2965,
+      "sha256": "f9a30394fd9373c0f7eaedc686a6bdb41ce74f4484d289c0c19f087cb096c251"
+    },
+    "downloads/b32-schedules-v2-README.txt": {
+      "bytes": 2000,
+      "sha256": "86f55deb303eeefef7891c0254246b578de758056e6457aee926912ddeccda01"
+    },
+    "downloads/backward-schedule-README.md": {
+      "bytes": 3549,
+      "sha256": "0d4a7c159c7ca78a44bf3308003550e0d3d15c474c0fdcbb02ac46fd5ce41065"
+    },
+    "downloads/bitcost-README.md": {
+      "bytes": 3143,
+      "sha256": "da80ae1e4867fb8e6321d993121a2ba46fa0f3ca2a4db1adc6b0c44727207197"
+    },
+    "downloads/bitslice-allocation-README.txt": {
+      "bytes": 2263,
+      "sha256": "fba81c87aaa04e0d70975384ab19984216f5d5eadc8e1ade10ce25ed86b052cd"
+    },
+    "downloads/boardpair-README.md": {
+      "bytes": 3901,
+      "sha256": "6e9c45e9d196aaee052dc6055ae8b072ab549621ef68ab80d9a7f53eb44723e5"
+    },
+    "downloads/bsel-generator-README.txt": {
+      "bytes": 2103,
+      "sha256": "35678821884759169740dfd943994955bc46ec4d6552f570e90644d4cde94e02"
+    },
+    "downloads/CLOSE_SCORE.tsv": {
+      "bytes": 2107,
+      "sha256": "b94845c34cecbfa2e3a562ac91e0c3a057f0b50ec0e121e7922af214ba6998e1"
+    },
+    "downloads/CLOSURE.tsv": {
+      "bytes": 6151,
+      "sha256": "df5c99b3a12d5b74d338616fff55cb9e80ec83add0b574ab33f9ed57c2938bc4"
+    },
+    "downloads/COMPACT_README.md": {
+      "bytes": 2412,
+      "sha256": "e2fab039b629e4f1ac808b28c4bcd0fa2f64c13b7d9b72287fcfdcd6cee1fbee"
+    },
+    "downloads/count253-278-README.txt": {
+      "bytes": 2735,
+      "sha256": "2c7cde288f15f894177bae6d1c6bd5f08b90fd6d905e676b3fa2f69569574ab6"
+    },
+    "downloads/count253-278-records.json": {
+      "bytes": 9030,
+      "sha256": "96cc9a89ced863acce904e16720f51b333fc99fa0f87610c73af40354cd6b716"
+    },
+    "downloads/coverage-semantic-delta.json": {
+      "bytes": 261409,
+      "sha256": "2481c13cd56963e3f74a70beb232b29048d698082680673df83e498d245a79b0"
+    },
+    "downloads/current-encoder-README.md": {
+      "bytes": 4328,
+      "sha256": "082c2abf03c3fd08c58f72c27f7091195d3dfaf8922f1bd4ef464af2fd49d926"
+    },
+    "downloads/cv0-filter-README.txt": {
+      "bytes": 2027,
+      "sha256": "7c81ff704bc8177ab27751a101bb16c76793f40150e6dbd761eb8a66ab2e2be0"
+    },
+    "downloads/cv0-filter-records.json": {
+      "bytes": 26446,
+      "sha256": "aa083a2e7b6140de5fa7da6ab1b7fd64e5b6d96e0661c11c39e8a7a230837f90"
+    },
+    "downloads/d126-model-README.md": {
+      "bytes": 4680,
+      "sha256": "1037342b7bec1108d73f8047e90e61ec06391b522b317ef39c755d6f4e699bfd"
+    },
+    "downloads/dig38-records-README.md": {
+      "bytes": 2715,
+      "sha256": "7f151337dc164d36059c426fb7a0c6922a488ea6064f2d43766462e63ba683cb"
+    },
+    "downloads/dig38-records-validate.py": {
+      "bytes": 3634,
+      "sha256": "7823cf1f20ba805f6380f34c7fb91d8d649ef6f6adffa7cc2f7e39e73e5ef8c3"
+    },
+    "downloads/dig38-records.json": {
+      "bytes": 406507,
+      "sha256": "308436f3d6bcb5aa8e0b42618aaa97a49fa154135b0f3915e3a40acc647ad9c3"
+    },
+    "downloads/dig38-records.schema.json": {
+      "bytes": 1781,
+      "sha256": "ed5a99631ca0d8712729870c9658cfdf44311f6174bc37a5fcbc1606a3793fe8"
+    },
+    "downloads/dig38-verdict-README.md": {
+      "bytes": 2259,
+      "sha256": "d2a2c0217f36d24751bf7e4b6df9de28fe39daa8d6630c8b3776e092996adfac"
+    },
+    "downloads/early-state-README.md": {
+      "bytes": 2853,
+      "sha256": "1794976dfd71234f38331558bd08dcdcdb97ef25b7cc9367f753341042deb6c9"
+    },
+    "downloads/encoder-summary-README.md": {
+      "bytes": 3901,
+      "sha256": "fe43237f1cd6f4e29adf4915e10e2bf48fcfe555da2e2b98f14ca40b6765adcf"
+    },
+    "downloads/family-places-reader.json": {
+      "bytes": 153993,
+      "sha256": "92529ffe25cb9e3fa215ab378bc9d1c9e72943131d87bb165daca0f49c20e38c"
+    },
+    "downloads/family-places-README.txt": {
+      "bytes": 3767,
+      "sha256": "b5e3a18a97ae7270b2855f3b95afa6c06e979e1d5bbe0dc81039896efb3d6d30"
+    },
+    "downloads/finite-replay-README.md": {
+      "bytes": 4765,
+      "sha256": "a5fb13eff741244dc6205f32570700c5cdce0131561f6b06f2f88f2c9edfeb72"
+    },
+    "downloads/four-pattern-README.md": {
+      "bytes": 3230,
+      "sha256": "f42a4a8c459778484ff81e91c10bfcb14aaad801f65a531db8813b76cde660e5"
+    },
+    "downloads/fulltrail-builder-README.txt": {
+      "bytes": 2706,
+      "sha256": "a946abb287d8972fbd37300822931d2ededdaa50ac9c964a68997a7897a0e395"
+    },
+    "downloads/game-closure-measurements.csv": {
+      "bytes": 3600,
+      "sha256": "d5bda9b079e9a759e9e2e4ef5ef77e88f4fd84ce5f471ce3c505c468f70a59ab"
+    },
+    "downloads/game-difference-groups.csv": {
+      "bytes": 7697,
+      "sha256": "336d4e9c4dc0079bf34ea40e01ae27dd9736a44a3c2d48a2bab7600a5e83e921"
+    },
+    "downloads/game-evidence-README.md": {
+      "bytes": 2751,
+      "sha256": "00e5280f5ddc75a234c3cc9a91534c070b62acbc47ffbac29b41ffdd3001ebc7"
+    },
+    "downloads/game-research.json": {
+      "bytes": 300806,
+      "sha256": "0afd252ce9f3429fa97918e711a5fe14102c886aef2cffaa50674f81741af124"
+    },
+    "downloads/historical-common-cv-README.txt": {
+      "bytes": 2113,
+      "sha256": "e9b0cee93e311f9afdb831eea8dffdbb0bcca14fe138e9f0ef923a4d0afbafd1"
+    },
+    "downloads/historical-common-cv-records.json": {
+      "bytes": 3406329,
+      "sha256": "6450b6eb77cdfb41ad72d39279f93695aaa55a12e5511ca2819cff46477b7146"
+    },
+    "downloads/historical-pair-continuations.json": {
+      "bytes": 173100,
+      "sha256": "241b0f7b72632d36af5e0f50c384a689be9a4a0786b25dba9e75b19255fbb97e"
+    },
+    "downloads/interrupted-move-README.txt": {
+      "bytes": 2213,
+      "sha256": "2771c89696af2c31859ade55c57447a4e78524d4160022a421af0c3931f8454e"
+    },
+    "downloads/interrupted-move-records.json": {
+      "bytes": 5193,
+      "sha256": "8c219a7f8792bf8cc2582384dc3296c97cfae5bd12a6a2d5bba09e1a8d991180"
+    },
+    "downloads/jam-leak-README.txt": {
+      "bytes": 2034,
+      "sha256": "49f4fec9a2cbc55c43b434994b1f5485289b8e700230d109ddae0a0f62007de4"
+    },
+    "downloads/jam-leak-tables.json": {
+      "bytes": 20517,
+      "sha256": "8ffc8b035a7a7962cdfe3f40102a2e85642bf158b32b5624085519ca6178e5a7"
+    },
+    "downloads/KNOT_PER_HEAD_ALL_1031.tsv": {
+      "bytes": 12857,
+      "sha256": "55adb95a6509383f6fe4f8e9dd7efc11ab5a38c2d40b48bd12dc7c1d8b0cfc53"
+    },
+    "downloads/legacy-url-map.tsv": {
+      "bytes": 6581318,
+      "sha256": "94bbcb56e820ef8cc2c05183a7f49e51a87ca1fb84fac8430d033c77ac704934"
+    },
+    "downloads/mkxml-contracts-README.md": {
+      "bytes": 4206,
+      "sha256": "08948d5c63bc2f2746f5872b9585c2281a8df03ac05a93931d9c545e12765bff"
+    },
+    "downloads/near-iv-prefix-README.txt": {
+      "bytes": 2135,
+      "sha256": "48086dadfb95b5861c3af1bb0327c033857d5b7eda0bb21fa579a9ff1d454155"
+    },
+    "downloads/near-iv-prefix-records.json": {
+      "bytes": 179706,
+      "sha256": "f678f29b02c9ddb8868d6d8861194e17d5287a1655a62b0fef1704facb926185"
+    },
+    "downloads/newwords-README.md": {
+      "bytes": 3026,
+      "sha256": "33aef1433be4c4d669f7c357f3f3efdfa9e55260f06e71a1cba06aa7f25e431a"
+    },
+    "downloads/november-pairs-README.md": {
+      "bytes": 1750,
+      "sha256": "3b76a67ca28761e7962a5ce17971b435b08d357865fbf1eabb1ae8a666b25a81"
+    },
+    "downloads/p9-deletion-README.txt": {
+      "bytes": 2358,
+      "sha256": "2a3a9eef1024eba7e9436e814989d3329b2dbbc6fa193587c10ec9537bb5d1be"
+    },
+    "downloads/p9-deletion-records.json": {
+      "bytes": 26626,
+      "sha256": "e286e226f50ce4ec47d91894290f56db08176c73b9d9744c922a528bbb1bf016"
+    },
+    "downloads/pairfactory-tables-README.md": {
+      "bytes": 4910,
+      "sha256": "16ea33ec66b5aa1dd347662ea4928df64cd3b9c9dae81729ca8f746cac9ff48d"
+    },
+    "downloads/poseidon-api-README.md": {
+      "bytes": 5459,
+      "sha256": "cad243f9097acede08fe46c371f0706275f22ffed154ba619b98d4e8559bc456"
+    },
+    "downloads/poseidon-rho-README.md": {
+      "bytes": 4451,
+      "sha256": "256371ed29f58696bda0e90a7fb7dd4af0c2135e1f5b1ef514777b51ce38b8d0"
+    },
+    "downloads/poseidon-xconv-README.md": {
+      "bytes": 5339,
+      "sha256": "1e9f07e8a6630fb7f1cf6d1d3df08bc57ed88a3d99b85621b32f41eacf99ebba"
+    },
+    "downloads/prefix-run-records.json": {
+      "bytes": 569043,
+      "sha256": "7578510652827fd855a29fb69d589b82468d8ce7fcb2a7d338e4c94c262c9340"
+    },
+    "downloads/profile-contracts-README.md": {
+      "bytes": 4460,
+      "sha256": "108915cf835275b48f9e6a7a7306d391e3ee08e6c5759dd527cca2630ab1aea9"
+    },
+    "downloads/PUBLICATION_EDITION.md": {
+      "bytes": 2007,
+      "sha256": "42ae6848535612a2013468d32f353492160ce0623c300f727421755146e25010"
+    },
+    "downloads/question-followups.json": {
+      "bytes": 28861,
+      "sha256": "c3a7c54422f6146035af5af78a08f699d3856926c47d2d04729e8789966df3cf"
+    },
+    "downloads/r38-walk-ledger.json": {
+      "bytes": 10818,
+      "sha256": "49ee1d816d6365e37c894829282a34fb2bbc2bd7c949e810cab1a47a7fd10ca4"
+    },
+    "downloads/r38-walk-README.txt": {
+      "bytes": 3145,
+      "sha256": "0abb3dc113cfed4d74b6c97db483ba67741e30e48244f3614b8865fb2d793ca6"
+    },
+    "downloads/r39-memory-ledger-README.txt": {
+      "bytes": 1682,
+      "sha256": "49de7817302ae14d7cfd7db026a71c8be5d84bfa535128013898aa1422492626"
+    },
+    "downloads/r39-memory-ledger-records.json": {
+      "bytes": 2504,
+      "sha256": "dadd328f382518a91fc432c2d53af524a106ca2390d9b5254fae348b661b82f8"
+    },
+    "downloads/recount_axe_wave.py": {
+      "bytes": 2048,
+      "sha256": "da8c7140211d5edc84de465b4b03acc73c7dc5913d434d1ccd003a41f9273817"
+    },
+    "downloads/recount_closure_features.py": {
+      "bytes": 3075,
+      "sha256": "69c32b31cb1895404bccc9f59cf3f8dd6583b1ed9963ade8edb255c0697ab1c3"
+    },
+    "downloads/redecoded-pairs-README.txt": {
+      "bytes": 3238,
+      "sha256": "5a849e856da1a55a7be51c97b6ecdbf7ff9b575a7fa0d8e3770bf41ea877769a"
+    },
+    "downloads/redecoded-pairs.json": {
+      "bytes": 282719,
+      "sha256": "ebb8b174e952ce1d85eac996f11ab4d167489c722c00f3bf5e9605a9f420e12c"
+    },
+    "downloads/remaining-records-README.md": {
+      "bytes": 2916,
+      "sha256": "a0e52057ee3b2ed45d7d46171c7b97bbccdadf4c567196e1ea42700f06a98782"
+    },
+    "downloads/remaining-records-validate.py": {
+      "bytes": 5055,
+      "sha256": "5a6b92170124e8f39aa28d731d11501ab61801f1feea0fad6148d27049949904"
+    },
+    "downloads/remaining-records.json": {
+      "bytes": 132839,
+      "sha256": "87bd7dfaf26d72011ec3035a5a26de095b17babb153bc5cedf39cf53a1f9b4f0"
+    },
+    "downloads/remaining-records.schema.json": {
+      "bytes": 2132,
+      "sha256": "f71c14af35931d66aea665ab14a1cdfa0a107be986c8b2b04900caeaa585e049"
+    },
+    "downloads/saved-outcome-ledgers-README.txt": {
+      "bytes": 3259,
+      "sha256": "d9b6049b2ef9fe80a2f1673d081c872bdd60b91b0bd4b88d46297902007ce100"
+    },
+    "downloads/scaled-sigma-README.txt": {
+      "bytes": 3892,
+      "sha256": "4c2e9cc36965856e2ec9015868346b9bd6234c745d5be16d769ff0cfa8a9c796"
+    },
+    "downloads/scan-driver-README.md": {
+      "bytes": 3588,
+      "sha256": "6db1ae1ae4869077876b03c189cc5551c08923c9b44e843bcb47f08b5b423a17"
+    },
+    "downloads/sched-width-README.md": {
+      "bytes": 3088,
+      "sha256": "0f8e7ab9d056620ea5ab4d0343157c9df4236543cb1fdb930de0c882b0d91c9b"
+    },
+    "downloads/schedule-cells-README.md": {
+      "bytes": 4039,
+      "sha256": "d4535e48ab980b72974dc315f382b3521a18e6edc766f5f810526a098b276921"
+    },
+    "downloads/search-outcomes.json": {
+      "bytes": 61884,
+      "sha256": "150a93e84c72531df13a24207f1dac05943534f41fb71e5bacade075ccc854ba"
+    },
+    "downloads/seed-prefix-contracts-README.md": {
+      "bytes": 3601,
+      "sha256": "2f8dee2bbf46c4ee07d496fe8168ba0509f78f43c290da3167dd94dc911c3c24"
+    },
+    "downloads/selector-guard-README.txt": {
+      "bytes": 2005,
+      "sha256": "e92d22d7dda6a4ecd8c42546a2fa3e8afbf6d516550eb5470b365a88e0e9fac4"
+    },
+    "downloads/sha256-drat-README.txt": {
+      "bytes": 4098,
+      "sha256": "0e50e61f0f95417fd600e85008c4221882b1658213e60d610c051eca9c5d5f02"
+    },
+    "downloads/sha256-factory-pairs-README.md": {
+      "bytes": 3745,
+      "sha256": "0a06262a9e7cfc1dc31fa1dcec18374603423cfc94ac8902adda4d3643aa2790"
+    },
+    "downloads/sha256-local-factory-README.md": {
+      "bytes": 3419,
+      "sha256": "12a772725088a2bd5507a353ecda1596d538ed83f3317a3ec14ec11ad46d933d"
+    },
+    "downloads/sha256-row-projections.jsonl.gz": {
+      "bytes": 2995927,
+      "sha256": "e244147a9728f2f8f385a7ca282faa117dfe1e239061d5cb5a4be00988cac37d"
+    },
+    "downloads/sha3-local-objects-README.md": {
+      "bytes": 4911,
+      "sha256": "a026efe588be0454bb1b7ef25237913cdeaa4eb01b37266d3c01939ededc81ed"
+    },
+    "downloads/solve-time-bit_ladder.csv": {
+      "bytes": 3275,
+      "sha256": "d498b2900aa2df093c05feffab41e7765f7418061b616fde1b90117aed937009"
+    },
+    "downloads/solve-time-distance.csv": {
+      "bytes": 1217,
+      "sha256": "6f572d7757dad8a9526cf3474617e6efbc3f22d3d725c378f8051827a1262c4c"
+    },
+    "downloads/solve-time-end_registers.csv": {
+      "bytes": 163,
+      "sha256": "aee02c2f4fd6019380dce9634cbde480556697dbda6e47ad697257aa6d70f32a"
+    },
+    "downloads/solve-time-islands.csv": {
+      "bytes": 227,
+      "sha256": "4472b4fcebc3277531d86ae7bad557ac129beb91770a099aacf997091980be8f"
+    },
+    "downloads/solve-time-published_pair_steps.csv": {
+      "bytes": 86,
+      "sha256": "18a0b31742f7263872898dbccbebee5b76450806cf5c911eeaaa72cebe3ebd19"
+    },
+    "downloads/solve-time-rotation_snap.csv": {
+      "bytes": 780,
+      "sha256": "f95b83895a0100535af76b740462e60f43055befa9b4bb78d27c4169203a9c81"
+    },
+    "downloads/solve-time-tables.json": {
+      "bytes": 35479,
+      "sha256": "98044954016021eb98e8b6d2262e6d26b8d466929680685b153876ea9ea94a05"
+    },
+    "downloads/solve-time-tunnel_knobs.csv": {
+      "bytes": 5713,
+      "sha256": "037cfe182cdbe11dbb6cb80c82b2e7f33f350f4308b3e869e4331674b9556d76"
+    },
+    "downloads/source-file-index.tsv": {
+      "bytes": 4722502,
+      "sha256": "05e781fb5da82639ff8b3cc9d80cd36a7c9e99058384890786ccb104b709e2a3"
+    },
+    "downloads/sparse-b-lemma-README.txt": {
+      "bytes": 1652,
+      "sha256": "4aba8e9360afa7d7ac60fa58a1ab71336c44687725f7e3baeaf3541aefe6a6e2"
+    },
+    "downloads/sparse-schedule-README.md": {
+      "bytes": 2447,
+      "sha256": "1b289bcbb6487236ae1f9defe1b1f4dca373aea9dae8db06ff236e78377a31fe"
+    },
+    "downloads/sparsedoor-price-README.md": {
+      "bytes": 2947,
+      "sha256": "f2766a9de17b90409dfb35b7015b2b3bf1969bdeafa8a972cca6e297a124b5bf"
+    },
+    "downloads/standard-iv-prefixes-README.md": {
+      "bytes": 3979,
+      "sha256": "b298c43a13fd3b805817a28b2ac6d2cb5e68bd2fac56909603116273a2ad1554"
+    },
+    "downloads/steering-ledgers-README.md": {
+      "bytes": 3520,
+      "sha256": "f4da66427bce6e39529d8676519c810dd742710dbba7c9201844fe569c924b8f"
+    },
+    "downloads/sub283-ledger-README.txt": {
+      "bytes": 2012,
+      "sha256": "b4c7a1cb065310e60c343882b2e84a781acd83091bd965f85bf509c1dd0910d0"
+    },
+    "downloads/sub283-ledger-records.json": {
+      "bytes": 118643,
+      "sha256": "c849414ec605cc0eb0ae861cc55c19d3f30bfc7a37069456a200f47b510df1a4"
+    },
+    "downloads/support-overlap-README.md": {
+      "bytes": 3685,
+      "sha256": "a64e768253b2d3d304dac5b6389359bc9c017232b85ab010d37217163492826d"
+    },
+    "downloads/template-contracts-README.md": {
+      "bytes": 3120,
+      "sha256": "a0bed38af0a7412f5560c84cec411907ba1a27be6a8977440c7fe311a6d801fc"
+    },
+    "downloads/toolkit-index.csv": {
+      "bytes": 3839797,
+      "sha256": "6ba18d22724d2b907ee05e99810824cd61677d5f8dde8ec3603e4f3494270365"
+    },
+    "downloads/toolkit-readmes/blake-circuits.md": {
+      "bytes": 28238,
+      "sha256": "70955225106b7530b7cc861df56b0a2b25d5c4280ebb126827f6d3825cc77eef"
+    },
+    "downloads/toolkit-readmes/blake-halfsearch.md": {
+      "bytes": 9414,
+      "sha256": "ad0c15e007ed3ced676e3b7ce9c4f18990657fd8529f93335de8fd343e7fa912"
+    },
+    "downloads/toolkit-readmes/browser-labs.md": {
+      "bytes": 1206,
+      "sha256": "fbd000fcbce44efacf8a69b718b86bbd861720ad8f5f9eae174e1adc02ed6608"
+    },
+    "downloads/toolkit-readmes/cellbook-atlas.md": {
+      "bytes": 1229,
+      "sha256": "94081db7d665ce70bc6adaeae6ccb79cd58c4f6b15ecf28d308759c96ef7e962"
+    },
+    "downloads/toolkit-readmes/charge-tools.md": {
+      "bytes": 6480,
+      "sha256": "ceebe7d91441f3ef9dc59f401467392fe87d57db43c6768a954b5fb73a6b8c41"
+    },
+    "downloads/toolkit-readmes/independent-sha-checks.md": {
+      "bytes": 4800,
+      "sha256": "ed8f00a80ee93063ea96744ff33557dc2c47ca614c3fae43715e75d741b6e80d"
+    },
+    "downloads/toolkit-readmes/pair-factory.md": {
+      "bytes": 5937,
+      "sha256": "4be96c82d175a4eea6d1d42c829ef019b53e25f32f50671860671adeb58b4753"
+    },
+    "downloads/toolkit-readmes/pin-tools.md": {
+      "bytes": 2789,
+      "sha256": "f4f4ae66e503f81d095aaf3a4e95af0ae607187a5b3570bc6644a6e8a8bf6da7"
+    },
+    "downloads/toolkit-readmes/poseidon-reference.md": {
+      "bytes": 5097,
+      "sha256": "5f67d106f74727d699225d39509737b8417e39cc1f0e628334247b70bad74b87"
+    },
+    "downloads/toolkit-readmes/round-climber.md": {
+      "bytes": 1138,
+      "sha256": "f2acaf86417b8130e573e9bc686d36f91dcae9b5c6fe02639d3d1e0f7eff3792"
+    },
+    "downloads/toolkit-readmes/schedule-diagnostics.md": {
+      "bytes": 4569,
+      "sha256": "ef128085a064faf8e72d5569204ff8230bc852a034a1a9050d0e74013026a149"
+    },
+    "downloads/toolkit-readmes/seed-characteristics.md": {
+      "bytes": 4650,
+      "sha256": "8c5ed84599fabc04a97b92c4c1c79e431aa439e87de9d8ac1d3868cd7522880a"
+    },
+    "downloads/toolkit-readmes/sha-pair-encoder.md": {
+      "bytes": 4456,
+      "sha256": "1e8483b4ea0f71c04ae8beb88afec2c717e95bcdde774adb29c174e73af0bf08"
+    },
+    "downloads/toolkit-readmes/sha3-lanes.md": {
+      "bytes": 2980,
+      "sha256": "8a20ba45c55a7c2bd00eacb932cfe5cc5835c5f95cda0ee93e9da0de2ac08d13"
+    },
+    "downloads/toolkit-readmes/source-reader.md": {
+      "bytes": 1188,
+      "sha256": "151687f25caa47b8ad325c3bc39c8506bf5794e940df8e90e72ff27ff29d2c67"
+    },
+    "downloads/toolkit-readmes/templates.md": {
+      "bytes": 4732,
+      "sha256": "14b72e2a251da1cd0b3d834624a0fc9306a6220801eb5fbe31ca51d140b47101"
+    },
+    "downloads/toolkit-readmes/traillab.md": {
+      "bytes": 3865,
+      "sha256": "7da61bf50b39dbe25b4f37815619eb6e2b1b00904f4ce29efc036ae6954aee0a"
+    },
+    "downloads/toolkit-readmes/transform-planner.md": {
+      "bytes": 3764,
+      "sha256": "078a9b90de39f49c4033d97e0bd1c70c558098fbb16bffea5475b2fc2b025253"
+    },
+    "downloads/toolkit-readmes/w11-classes.md": {
+      "bytes": 3607,
+      "sha256": "e99e3911e89e5379db4eee5bbdc9f9fea3715b7244e9d9a38bbe72d5d379270e"
+    },
+    "downloads/TOOLKIT_README.md": {
+      "bytes": 3460,
+      "sha256": "f4323a2d52b5d3fda843ca5246590de37cc7915b034b2a7a7d0911bc9abbf0a9"
+    },
+    "downloads/traillab-README.md": {
+      "bytes": 1830,
+      "sha256": "a94141d1e0d52875b84f0567e54ea36728cb78a519e5d65911c9f3bb6910db9a"
+    },
+    "downloads/up39-ledger-README.txt": {
+      "bytes": 2316,
+      "sha256": "e7a54b1d42ed9475c1d41bb14ff0c2d041e62c19421ad3a205ff0107d7d0a697"
+    },
+    "downloads/up39-ledger-records.json": {
+      "bytes": 12304,
+      "sha256": "668d6c17b682f0b52a33ecdb8520ffec14cc7fe51c6664cb9a29708110104055"
+    },
+    "downloads/w11-class-README.md": {
+      "bytes": 4485,
+      "sha256": "c9f69c7a64be3138cc81ae6a05275476144634dc9f9beb1ff0735ace75655022"
+    },
+    "downloads/walk-measure-README.md": {
+      "bytes": 4695,
+      "sha256": "a048f3d3cef8185b99dd688c9a3e18845659812cdbaf290f3658ce39d79906f0"
+    },
+    "downloads/WATERFALL.tsv": {
+      "bytes": 1786,
+      "sha256": "678a99f1f0a5554eac9d2a0a8ef28dbeea2e36bdfac8573d607c1db330c7e9c0"
+    }
+  }
+}

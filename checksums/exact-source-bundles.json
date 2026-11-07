@@ -1,0 +1,889 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "downloads/research-sources-001.zip": {
+      "bytes": 7079808,
+      "sha256": "3145357e9da581eee65f8079a2c472fb06cb6ea9340fcd623d4466eb4cebc454"
+    },
+    "downloads/research-sources-002.zip": {
+      "bytes": 16925824,
+      "sha256": "01884b0ade914091eae9e1ad5c8822c2acd05478632f97d5e9edd09cc59f5329"
+    },
+    "downloads/research-sources-003.zip": {
+      "bytes": 16692114,
+      "sha256": "ea6d6163c11b75b3f3e6a0cfdae1be49078aef5fef1880bb69619a52d8f795b6"
+    },
+    "downloads/research-sources-004.zip": {
+      "bytes": 16477052,
+      "sha256": "8ff49a44c7dc5b401d74abf4194a62918f45e1f211f825f26a9257e3322bf865"
+    },
+    "downloads/research-sources-005.zip": {
+      "bytes": 16795010,
+      "sha256": "6e52da539fa3a84fc2c682242f0da9087123e40e99b411279eedc25aad3b6068"
+    },
+    "downloads/research-sources-006.zip": {
+      "bytes": 12796787,
+      "sha256": "f8a49a6ef52a3060ecbb7c9cac705a08754d1d93c2396eda3f11ffe808d9691f"
+    },
+    "downloads/research-sources-007.zip": {
+      "bytes": 16412643,
+      "sha256": "0c797d5cafc7c497ef7d5fa376dfb349b552fb80ed65fa9db88cdd3a9e4d11bb"
+    },
+    "downloads/research-sources-008.zip": {
+      "bytes": 15999432,
+      "sha256": "edf371fa46cca840484615f89c72839d6ae27aac4cbd3b44ad3beb33a635565a"
+    },
+    "downloads/research-sources-009.zip": {
+      "bytes": 14997280,
+      "sha256": "623b5d8c9e949a2c0cc1e6edd12a95f412c285b6c62780ef4daa619bcc0a6d97"
+    },
+    "downloads/research-sources-010.zip": {
+      "bytes": 6898889,
+      "sha256": "ecb24862bc0a7d21ce99b3853617fd110fd3a0bac5c73bfe5634bb55e57d40ae"
+    },
+    "downloads/research-sources-011.zip": {
+      "bytes": 12763701,
+      "sha256": "fdd2fedfddaf8367a8b6a42d3ada987f45ba3b73755a9d815ea8bc7626d225ad"
+    },
+    "downloads/research-sources-012.zip": {
+      "bytes": 16771029,
+      "sha256": "a1067f6110323682ee9dd9e7d548c28f1afd8e1acd734fd2eefc5f6aa395faea"
+    },
+    "downloads/research-sources-013.zip": {
+      "bytes": 16972354,
+      "sha256": "2ec98c620cd2a67a3b61f126d36e34568e1273df3d5c309a27caa531eed0329c"
+    },
+    "downloads/research-sources-014.zip": {
+      "bytes": 16910436,
+      "sha256": "1bb9842000798625a100b641990a2ecec6efcd4de17458db8ac39e18357b6a09"
+    },
+    "downloads/research-sources-015.zip": {
+      "bytes": 16717639,
+      "sha256": "f75cf79f5efc14712d62403437d73b7c2c9283f7d240dbe51cedca3625bbea8c"
+    },
+    "downloads/research-sources-016.zip": {
+      "bytes": 17119114,
+      "sha256": "dccb638ec4b1c43b4a497c81eb81adfcbaa1096379cc0a07afb34daae330457e"
+    },
+    "downloads/research-sources-017.zip": {
+      "bytes": 17293259,
+      "sha256": "508237c37b044b378410059ba5acb3cfdade2e9e6013affdb46c0bc325d8f262"
+    },
+    "downloads/research-sources-018.zip": {
+      "bytes": 17138250,
+      "sha256": "32125876e87bb6a645a12de1b393b554137c0cb42b4d7e17192f177428e9149c"
+    },
+    "downloads/research-sources-019.zip": {
+      "bytes": 16796102,
+      "sha256": "d0f31a8bb61a10019c9109ae6c37b384e8f8df21720d75b00a84410a04490366"
+    },
+    "downloads/research-sources-020.zip": {
+      "bytes": 15486210,
+      "sha256": "cd40a3bdd174662909f82ba61cf1c28d64e13caa5c3e4afd87f4285c814d8a14"
+    },
+    "downloads/research-sources-021.zip": {
+      "bytes": 15941291,
+      "sha256": "3dca7efd69442124be77f510e3593396cef1975f41a9e1686718ab21fc53bdd7"
+    },
+    "downloads/research-sources-022.zip": {
+      "bytes": 16755239,
+      "sha256": "e033d81051bb28d1e220c285785fac43d58fc50157685d12e14a40b988b3c3bb"
+    },
+    "downloads/research-sources-023.zip": {
+      "bytes": 16953071,
+      "sha256": "8e99902fd885cadf000a82c7944813d12dba2974e84da4fee8b274b16ae304de"
+    },
+    "downloads/research-sources-024.zip": {
+      "bytes": 14658052,
+      "sha256": "68cb1c8b7bea84e5524b8ea88e2fa5ee66dfb6e7442a8a900e64027869685d3c"
+    },
+    "downloads/research-sources-025.zip": {
+      "bytes": 16911251,
+      "sha256": "373bfd0fa2e8e2f8c096a570dda26c5f7f5222d2e42a25a8fff8faf1c7746a43"
+    },
+    "downloads/research-sources-026.zip": {
+      "bytes": 16144234,
+      "sha256": "b71f8aa8f863ba77bb34687fb1a891152d5fa1d512492b5f627b943fccbdac6d"
+    },
+    "downloads/research-sources-027.zip": {
+      "bytes": 17024330,
+      "sha256": "432a086426feadab209878a2fdf68660c87c0793baab652c228abdf6a9d7a733"
+    },
+    "downloads/research-sources-028.zip": {
+      "bytes": 6460808,
+      "sha256": "e68b42e58b2ee0a0e728f412d60a52e8da9a12ab9a0c5252e9293bacbf59aab5"
+    },
+    "downloads/research-sources-033.zip": {
+      "bytes": 12547519,
+      "sha256": "42c6da028b90c4d364ecc4bfacb371b9a2dba39ab236b2fe1310c473bb2895e8"
+    },
+    "data/compact/files-0.json": {
+      "bytes": 291620,
+      "sha256": "fb6d7caf7e2a5244a7b44118d5d67c637b95ea1042256d46889d6ed67def9cc0"
+    },
+    "data/compact/files-1.json": {
+      "bytes": 303769,
+      "sha256": "13dd1e1c3e2e2b67eedd010349cf541acceb9a0fd14a8b85e97526af0f60aa90"
+    },
+    "data/compact/files-2.json": {
+      "bytes": 293410,
+      "sha256": "62459d98c634c4aebc80cf2b6e040658614a287fb1cb08322956231cb3e34a02"
+    },
+    "data/compact/files-3.json": {
+      "bytes": 306441,
+      "sha256": "fdf7d181de31e7174487aaad26050ec4218e72acc52a7da062faa7827be0f96c"
+    },
+    "data/compact/files-4.json": {
+      "bytes": 299493,
+      "sha256": "4e164a61ba25586a8d04980369f82450f16ac658d1c8296d53fda9992c63dad5"
+    },
+    "data/compact/files-5.json": {
+      "bytes": 312433,
+      "sha256": "b38f015f9a4d8f86dd85a0a8903037fd3ddd6b1dba9dfbd9091465b2c3d55aa9"
+    },
+    "data/compact/files-6.json": {
+      "bytes": 299610,
+      "sha256": "9423a856ee9b546753325689d11d7f2339e9072b9562deddd034f4d2b01add95"
+    },
+    "data/compact/files-7.json": {
+      "bytes": 294030,
+      "sha256": "5b554a3a571046e8422286c2e15ea7b0a4054f6cb219f09e1c5368f36c8cab03"
+    },
+    "data/compact/files-8.json": {
+      "bytes": 294771,
+      "sha256": "348cb2d1ea29115fe9287a6841e6d92a102013fe225395940e9f74d09ef02f78"
+    },
+    "data/compact/files-9.json": {
+      "bytes": 303292,
+      "sha256": "3ef2e5fc84a465e13969c257069c3e5e715c0b41150154dde65be505b24b9506"
+    },
+    "data/compact/files-a.json": {
+      "bytes": 294961,
+      "sha256": "4eb843afb4597876b6dc384e2927f07b32089fb6179adfdeb88138dc1bd0b441"
+    },
+    "data/compact/files-b.json": {
+      "bytes": 286682,
+      "sha256": "dbbcf2c054654cfbe5e0965148bf1cbc74793d1bcc020b0a6b4bd80be3a11964"
+    },
+    "data/compact/files-c.json": {
+      "bytes": 292853,
+      "sha256": "389f40b8f25b3fb4a8622d89e0384788ec7d3e449a3f5a41ac193d7845580856"
+    },
+    "data/compact/files-d.json": {
+      "bytes": 304181,
+      "sha256": "b53914bfd7e53b415a8e2b135009c0b7992edbe1b809c328baf0bf0f798f1504"
+    },
+    "data/compact/files-e.json": {
+      "bytes": 288474,
+      "sha256": "f9df208766e10420e3ec5bfae7d19e8c80652b4776f1d5d22957e912270e247e"
+    },
+    "data/compact/files-f.json": {
+      "bytes": 302322,
+      "sha256": "58f8b2b90e48966c3a13edfca50b0b93a8da345a07b4660be4cae1fed15bc991"
+    },
+    "data/compact/manifest.json": {
+      "bytes": 17396,
+      "sha256": "358cd1ba3330af6519d39b2f74cf60e58fd1e4ee994ae05ba09144898034b70b"
+    },
+    "archive/research/endgame/endgame_map.html": {
+      "bytes": 596932,
+      "sha256": "f78b9c1143954ced63092fa0f0a65a8e650d25a25b05b4beeab47c107fe503d0"
+    },
+    "archive/research/endgame/endgame_map_20261010.html": {
+      "bytes": 294369,
+      "sha256": "957166e9405226ae747280e35b70083afb07f99f794cc2be1768f02a59010027"
+    },
+    "archive/research/endgame/endgame_map_before_sol_refresh_20261010.html": {
+      "bytes": 292451,
+      "sha256": "eedbfe0d0ca89f25c2d8151d38ba396ac32a6b864265ce4cf48be4821281a51b"
+    },
+    "archive/research/endgame/row_atlas_37.html": {
+      "bytes": 150628,
+      "sha256": "aa168012cc1c44bf21499ab143b86491cdc71c382e097b44cd429c2e7bcdcbfa"
+    },
+    "archive/research/endgame/row_atlas_38.html": {
+      "bytes": 151839,
+      "sha256": "2a0ce92965fbde2cbe399c85ad8712690af1cfc00394755347c264e25acc4f06"
+    },
+    "archive/research/endgame/sha256_grid.py": {
+      "bytes": 44779,
+      "sha256": "a11cfcabcc51058af1830d9cd2251945e6bb0a42021be0c659381c62fb860e3f"
+    },
+    "archive/research/endgame/sha3_cells.csv": {
+      "bytes": 100306,
+      "sha256": "29947ee22d972b09cabdf1c6f4b0c8c1953ca98dc705932d0b4c978c0e70b74c"
+    },
+    "archive/research/endgame/sha3_cells_pre_1017_backup.csv": {
+      "bytes": 39001,
+      "sha256": "fddb319811fc9faafb5e2b0594619d9ace58cde5a1e484d52877f874c82bf9aa"
+    },
+    "archive/research/endgame/sha3_grid.py": {
+      "bytes": 5338,
+      "sha256": "0eb271720ba0121dfd29730f9d44700af52a826a7c9c4b96d121ed0e9b16627a"
+    },
+    "archive/research/game/climber/arcade.html": {
+      "bytes": 7926,
+      "sha256": "f7a5a0f74b27b80d0258777b570223b8b040bec18e33565c437c36f6e4367ea8"
+    },
+    "archive/research/game/climber/assets/arcade.css": {
+      "bytes": 18874,
+      "sha256": "cbfebef379a471369997ea5af9fdd9373f829d80f20e00ca9a528f48d5a0e46c"
+    },
+    "archive/research/game/climber/assets/arcade.js": {
+      "bytes": 24237,
+      "sha256": "d71086b52df65fbe6a07d263e6c95986aca06d049b6ea0b70cf97b6f73cdea9b"
+    },
+    "archive/research/game/climber/assets/board.js": {
+      "bytes": 9467,
+      "sha256": "f8bb11bf21056ff57883c76fa824b4dc176cfad172a590ec7277feaa70aec861"
+    },
+    "archive/research/game/climber/assets/encyclopedia.js": {
+      "bytes": 11601,
+      "sha256": "9c7d17bc840a333d5b384d6db7a7c56e9088ba52d34e99e379e249a046c8df69"
+    },
+    "archive/research/game/climber/assets/kb.css": {
+      "bytes": 6394,
+      "sha256": "40a2286f3014b2a60907a9f7f7bc353ac06d9b5dde56240b917fea5cc77824ed"
+    },
+    "archive/research/game/climber/board.html": {
+      "bytes": 1903,
+      "sha256": "dcab7ac066e45254f079f0a597b99b03604fa7c6a48c84b2ded9ef3b310d8bec"
+    },
+    "archive/research/game/climber/DESIGN_BRIEF.md": {
+      "bytes": 18532,
+      "sha256": "a6a3607da5e01e04ca26f946d32321d4adbe1269ef9481f473db4ac9c094bb28"
+    },
+    "archive/research/game/climber/encyclopedia.html": {
+      "bytes": 2126,
+      "sha256": "a5362410794f5b1f563be96fd44310cdf843599a09d37d635ca3bff4ad73dc08"
+    },
+    "archive/research/game/climber/guided/boardpairs/gen_boardpair.py": {
+      "bytes": 4877,
+      "sha256": "19573f5e4f69f24066d12371bfd3c642bf342635af07eeadcb5576c777daff29"
+    },
+    "archive/research/game/climber/guided/boardpairs/pathcheck.py": {
+      "bytes": 1513,
+      "sha256": "c52b9d35da25a285a8d6950d4a7e83310b4f9f9e0d59e6364679f325d13d8cd4"
+    },
+    "archive/research/game/climber/guided/boardpairs/PATHCHECK.tsv": {
+      "bytes": 2376,
+      "sha256": "e6df34cf0e13b40bc802dc012f4f9e636f10e4c377558af4f6ee48bc696e81f5"
+    },
+    "archive/research/game/climber/guided/boardpairs/price/r37/FRESH_2x128.tsv": {
+      "bytes": 52240,
+      "sha256": "78213cd8ce60f39322d37186f09859f323603c7b2032c941f8a53cb75e054af8"
+    },
+    "archive/research/game/climber/guided/boardpairs/price/r37/fresh_summ.py": {
+      "bytes": 2175,
+      "sha256": "92b169cbb34fe1824c7c55af8c71c560c4a77112644c9e286be865619ae5c443"
+    },
+    "archive/research/game/climber/guided/boardpairs/RESULTS.tsv": {
+      "bytes": 4764,
+      "sha256": "1708b9ab2f3cf062b2b839e08f9ad5cf3c92c1fa853e3f8579877533247da2e1"
+    },
+    "archive/research/game/climber/guided/boardpairs/wit/r37_tab17.json": {
+      "bytes": 630,
+      "sha256": "e1ed5b4a89aad156050eb895a86c803b019ef926869bc5b378332a0a3fb879ed"
+    },
+    "archive/research/game/climber/guided/boardpairs/wit/r38_s102.json": {
+      "bytes": 629,
+      "sha256": "18faa629b35329c05e9d0e20a42497e571f4553ad97d81049b2066b5cf3926a8"
+    },
+    "archive/research/game/climber/guided/chars/library/FAMILIES.tsv": {
+      "bytes": 7160,
+      "sha256": "08083d73810376ef32ef224615a59efe77c2bd41eec553d32cf27a4425c6432c"
+    },
+    "archive/research/game/climber/guided/edge2/RESULTS_fair.tsv": {
+      "bytes": 870,
+      "sha256": "7aa63b069ab3ddad2d3477f2d99fbf5b38598d4aacc874c5b01b8ac0e91e2b3c"
+    },
+    "archive/research/game/climber/guided/edge2/run_fair.sh": {
+      "bytes": 1336,
+      "sha256": "2be910860021d10c398aa2c93178c24217a6eb73538bb5a3ab7f8ccba28a8455"
+    },
+    "archive/research/game/climber/guided/FOUND_p39char_s108_WITNESS.json": {
+      "bytes": 797,
+      "sha256": "9babb5c10605eba5bf5aabeee71dcdfe601c2a57c5608f2d4553d7b59c7f4f90"
+    },
+    "archive/research/game/climber/guided/kit/char_pair_profile.py": {
+      "bytes": 12295,
+      "sha256": "1b9e8011a2104447f9941cc19134a13abd56191c2bd834985f9ef7dc85ee8611"
+    },
+    "archive/research/game/climber/guided/kit/indep_verify.py": {
+      "bytes": 2816,
+      "sha256": "dec3ad8f2be2ffaecc6e0e63801a12d75de19c3977685a8ff5133fde278b0513"
+    },
+    "archive/research/game/climber/guided/kit/sha_cnf.py": {
+      "bytes": 23585,
+      "sha256": "5a6b7373b8aac2312a9c017436c17ed4d29caed27343d959af76de687e33f1aa"
+    },
+    "archive/research/game/climber/guided/midscan/mid_driver.py": {
+      "bytes": 15422,
+      "sha256": "e295b1f64fb222d0c87e0994a92181eaa3870f560a7c39c4a93bce9418189cca"
+    },
+    "archive/research/game/climber/guided/midscan/RESULTS.tsv": {
+      "bytes": 27837,
+      "sha256": "b908c6127e16c347502137d99756a631b185eb4a450380748ef4f96284b5935c"
+    },
+    "archive/research/game/climber/guided/midscan/witness_src.json": {
+      "bytes": 936,
+      "sha256": "a38caa441606d3e9302edffc26af87ffd2befbba0f4197a6af710c930839b822"
+    },
+    "archive/research/game/climber/guided/minsup/mk_tap.py": {
+      "bytes": 804,
+      "sha256": "f8547f0ea192e61d47c5ed50e287276d0b80e17a53a05dd03c853b43482222e9"
+    },
+    "archive/research/game/climber/guided/minsup/sha_cnf.py": {
+      "bytes": 23585,
+      "sha256": "5a6b7373b8aac2312a9c017436c17ed4d29caed27343d959af76de687e33f1aa"
+    },
+    "archive/research/game/climber/guided/n39steer/classes.py": {
+      "bytes": 2303,
+      "sha256": "b56fdf584d0e81e35b15b1ad49d60057f887989ae7b0af2b3605e4ae72fc83dc"
+    },
+    "archive/research/game/climber/guided/n39steer/classmap3w/WINDOWS.txt": {
+      "bytes": 747,
+      "sha256": "639e7666077c2252c545dd9e1571d4471c82d37bba74521ff596ef03a92357e4"
+    },
+    "archive/research/game/climber/guided/n39steer/classvals3.py": {
+      "bytes": 1552,
+      "sha256": "1426268bf71aa102111997cf52647467e245e3db73ddf1d2a040feb0a14defb7"
+    },
+    "archive/research/game/climber/guided/n39steer/CLASSVALS3.tsv": {
+      "bytes": 3401,
+      "sha256": "f60a2431780b58f284e40ed8b66bb1ea9cd361d5184bae1b4998782bcab32e54"
+    },
+    "archive/research/game/climber/guided/n39steer/CLASSVALS3_k8.tsv": {
+      "bytes": 28392,
+      "sha256": "29e85248691ee3237b5ba708a578dc01bfdbfc7287bc01462a803f236699b7cc"
+    },
+    "archive/research/game/climber/guided/newpairs_1027/FOUND_pub39w11v.txt": {
+      "bytes": 458,
+      "sha256": "345676958a9fa3ebf9ec73ed477b784be5f564207512a993f85dd1a9629cbd88"
+    },
+    "archive/research/game/climber/guided/newwords/nw.py": {
+      "bytes": 3912,
+      "sha256": "e09652fca986ac020b65f8f254f060e132eb19a419af9f7f003e0b2438f756d1"
+    },
+    "archive/research/game/climber/guided/newwords/nw2.py": {
+      "bytes": 4364,
+      "sha256": "de9c21a9bba2efb917f0905ba9f6a0c7908d7d7d708be8522cf5fc98b8c4350b"
+    },
+    "archive/research/game/climber/guided/newwords/nw3.py": {
+      "bytes": 4381,
+      "sha256": "bad717a1bbef93baea6b70ee01c1b899df7870d0844413f38b2bb18462743081"
+    },
+    "archive/research/game/climber/guided/newwords/RESULTS.tsv": {
+      "bytes": 3267,
+      "sha256": "4d3349a29464a2946d3ad8ac373f439e3dc6c36632b22b35d51be71c5054b9cb"
+    },
+    "archive/research/game/climber/guided/newwords/RESULTS_v3.tsv": {
+      "bytes": 961,
+      "sha256": "5ba07efecc65faf463bbe1ae27ca4bb2f8a89d16f8a44b3ade410338d52cfc6a"
+    },
+    "archive/research/game/climber/guided/pairfactory/base.map": {
+      "bytes": 106062,
+      "sha256": "458ac63cdb1ff4e15a551b9bbc570e2841916a3512a742c136018386bab389e1"
+    },
+    "archive/research/game/climber/guided/pairfactory/base.xml": {
+      "bytes": 4922,
+      "sha256": "924e08def88836949426678728da51b67c88ae0a11d1436a7964140694698962"
+    },
+    "archive/research/game/climber/guided/pairfactory/CLASS_SUMMARY.tsv": {
+      "bytes": 6120,
+      "sha256": "bb79a1ad081dfa51a7f88864e39125bad0968fc5772839c39791d9cff1f1976d"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_001.txt": {
+      "bytes": 1086,
+      "sha256": "f7dba292a571ffb715f8f8ce5b3bbeeb085c56824995327065255cc524409071"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_002.txt": {
+      "bytes": 1087,
+      "sha256": "da2daf0825dd70ad3664ed7b27aeff52f9c85ba99bba9cfe8e01be415f6d9fea"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_003.txt": {
+      "bytes": 1085,
+      "sha256": "4b4d89c620147228559114d51b9cf8e0d635a1135dd81296a16da7723e6825dd"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_004.txt": {
+      "bytes": 1087,
+      "sha256": "c592fd025349fb6a2f5f672c458775a7a5ec634cc5e6b542e4b8defbc5b1250a"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_005.txt": {
+      "bytes": 1087,
+      "sha256": "27f5b2dcc8383f542c240e42960d91a103799b4691b8cddc3c29d0c9aa812e71"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_006.txt": {
+      "bytes": 1087,
+      "sha256": "768d4f26523877b006e47ade4efddda1a8a3da6a1fb57036b69721da25958656"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_007.txt": {
+      "bytes": 1088,
+      "sha256": "aa917f814cf40a67f7c00d0a3427fc750fa76da2d0777194448012c80d300ee4"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_008.txt": {
+      "bytes": 1086,
+      "sha256": "d27abb859b6e33ee2791db38ab49e9eb83a7db069960242cedf1134a38680439"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_009.txt": {
+      "bytes": 1089,
+      "sha256": "ce97b8935d7aa7204a41f228dd2b4b4bd858ffe2a028e2e8ede26ccefd349a52"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_010.txt": {
+      "bytes": 1089,
+      "sha256": "65843b2bc7a54740d500e0058bdfadb84f503413e4903e0be535f398eecde005"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_011.txt": {
+      "bytes": 1086,
+      "sha256": "2bb7dbbd15a053f230eb5283b213459c95c6396a0faa2649c354651b44702751"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_012.txt": {
+      "bytes": 1089,
+      "sha256": "56b76cffb0db3251133b0b94372c09dda4a0ec057aeb0373507e8bd09b584dea"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_013.txt": {
+      "bytes": 1087,
+      "sha256": "3b63b1c59173c7a30d7c30af56b80832b6b6f675fa36f1e3bf024bfdcc61a6dc"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_014.txt": {
+      "bytes": 1089,
+      "sha256": "cf3f66a6859d7beb084ace13d2e62ee249b948fe4db3ea0866ba77bfd8d3d77c"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_015.txt": {
+      "bytes": 1089,
+      "sha256": "89c75f35f72f1448c39bd5cba75ef442a849900e2c4054db37b39a41b3312018"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_016.txt": {
+      "bytes": 1089,
+      "sha256": "61af0d161c2505eb85b447922216b22759af50cd6b467aacf3c176e1590d7279"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_017.txt": {
+      "bytes": 1086,
+      "sha256": "a52c7940645bb37676b48050e68557dec0f49dc287343bd942a89c1863dca625"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_018.txt": {
+      "bytes": 1087,
+      "sha256": "14d521cf8cfbebad09e0d50c17f34302b5ba1401c293806dd322ecb6c8f961ae"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_019.txt": {
+      "bytes": 1089,
+      "sha256": "b6ee219497cc4f0c7932cbd45ca60a97c950e3a47093fe2ece10cb744b70ce1f"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_020.txt": {
+      "bytes": 1089,
+      "sha256": "f8dc03653387ef09cb7a941c48ccc3757ecf39f2e20f0d78a62c99f19c19a079"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_021.txt": {
+      "bytes": 1087,
+      "sha256": "0524d8172d944d08a6b42d1e3ab9800aa32e8403c7eb499fd3a568ddeb9cb5a6"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_022.txt": {
+      "bytes": 1087,
+      "sha256": "1241a05b36acf480bfcb3afc93f6da402d7a47c327d6a15ab85f55260997b875"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_023.txt": {
+      "bytes": 1089,
+      "sha256": "4df493c7b473efe4bd9a6269002ecbc76f6a32470d02fc9076a6a5249e00df72"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_024.txt": {
+      "bytes": 1087,
+      "sha256": "d5f3abe0ffa1962830be8158b1cd385f0587efc10c3cf3421486c97ac089b5fd"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_025.txt": {
+      "bytes": 1088,
+      "sha256": "7cd4444f7d731182032c4591be0606226c4d6a362aea9dfb59c9f65f9fee96ce"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_026.txt": {
+      "bytes": 1087,
+      "sha256": "d06b213482ef2c1fe1ed789e4dd57d3aec13358b9e1b240f52f8128017f1bcda"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_027.txt": {
+      "bytes": 1087,
+      "sha256": "33a95f75d605c55e57f236b5ade08c869cabd151744149d9004c5fb2c4ce3c17"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_028.txt": {
+      "bytes": 1089,
+      "sha256": "c02fbb4502969c6296e42750c014b0ec35a6b698109c91e3624dd3fd2e15d7ee"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_029.txt": {
+      "bytes": 1087,
+      "sha256": "c9432f3a56340793a1c7ba21a51429670239263e638617f0735d0a5de54524b6"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_030.txt": {
+      "bytes": 1087,
+      "sha256": "a6e06484df6e5fb0d6af5cd09b83053f485b581c33b864904b08b89ccb04680d"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_031.txt": {
+      "bytes": 1087,
+      "sha256": "748c3f4ef4ecad04e8826061a89673b68458b19fd8ad4bc04c5ec62b2930d36a"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_032.txt": {
+      "bytes": 1085,
+      "sha256": "a3cdc75e199a4984d29c4876b78d069ac033f7ff83d2826356a5621fc057d13c"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_033.txt": {
+      "bytes": 1089,
+      "sha256": "100fece1b56ceb5c3df84af21145085db618bde4740ee55f7c10612440aed579"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_034.txt": {
+      "bytes": 1086,
+      "sha256": "74a7e2e52815869a01aca0fd54eff2eb60b1ada447c5cfc04f00f223127a29f0"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_035.txt": {
+      "bytes": 1089,
+      "sha256": "add12510a9ade17a7f94002b57b62fc4d02ba48f1729c1581c8c6c8198882d61"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_036.txt": {
+      "bytes": 1087,
+      "sha256": "d9f240935dda220e1d4b9f10fc2b455526acdb7dc98b10fa6c1944645bc83f63"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_037.txt": {
+      "bytes": 1089,
+      "sha256": "220993dededfbd81ef68f50273eda732b27de229634a6acbd5c7e291edc79f63"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_038.txt": {
+      "bytes": 1087,
+      "sha256": "656d7d086f187d8f4508253a2de6390f7eac081d53fbbbfb1663583afc97992c"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_039.txt": {
+      "bytes": 1087,
+      "sha256": "79f289aabda73673be4528c08784830e86806f3665c3f7f952b8b4cab96b33bf"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_040.txt": {
+      "bytes": 1089,
+      "sha256": "512bc97bd6027b7fb9b5fddfbe063dada0fb625411d330208816b8d37147ad8e"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_041.txt": {
+      "bytes": 1086,
+      "sha256": "e7aecd995b55e5fffa68a771368cd5dec3681665a6cba1e984425028841ba89d"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_042.txt": {
+      "bytes": 1089,
+      "sha256": "e1e46b35c9b70525901b15aaf10f0bb1f82dcbe41ffd9f774cd85450cf49f983"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_043.txt": {
+      "bytes": 1086,
+      "sha256": "d236dd1229aef390352d4c42324da2fc3eb4a8746d24fe0471fee2b9412f144a"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_044.txt": {
+      "bytes": 1088,
+      "sha256": "92e076a86620fcebf283859ce643089c20aa790b5917f3647d4d59907713d4c5"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_045.txt": {
+      "bytes": 1087,
+      "sha256": "deafe1008613bbb41f250e736396ac0865a41c5203754a4cb53a4a4cdfe424e8"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_046.txt": {
+      "bytes": 1086,
+      "sha256": "7906d544d8d25e15701fbf9dd77c7411c99a9660413eba8860c01f67a0cb65d4"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_047.txt": {
+      "bytes": 1085,
+      "sha256": "f71e24668dbd695bf36c0b5f3cc418dfb9029d3a540e952752e5a912de147516"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_048.txt": {
+      "bytes": 1087,
+      "sha256": "8d7c582902811c4154ebbd5b7e7abeadb29ed42f8a350bf8eb6f39d955365bc8"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_049.txt": {
+      "bytes": 1089,
+      "sha256": "f3e01c655287fa462d37d10eef12c8478566a2d6708d6f8abe354f116ecfbfdc"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_050.txt": {
+      "bytes": 1088,
+      "sha256": "8e23e0bb8ca0e02e938882540aee2bbbfe46e2d66c34d65216c4156fbc4758ad"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_051.txt": {
+      "bytes": 1088,
+      "sha256": "dae36093464c38bca89baa37d4d88d4d10f1eeec13d1a83616af7ecc43c8c421"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_052.txt": {
+      "bytes": 1089,
+      "sha256": "14bc6610601103b36cfdc9a7cfedfcc187269198ec02552bab26cf778312634d"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_053.txt": {
+      "bytes": 1089,
+      "sha256": "c96eae0febad68bda1d878f7ac0eba701635dc36cce3443ec6f99cdf3ff8d1c8"
+    },
+    "archive/research/game/climber/guided/pairfactory/found/FOUND_pf_054.txt": {
+      "bytes": 1089,
+      "sha256": "32d699f561ab89ad212649fe48a4544fa2d9301995297d73132a320175f8539b"
+    },
+    "archive/research/game/climber/guided/pairfactory/pf.py": {
+      "bytes": 17903,
+      "sha256": "ead64dbd7f9885d9fe9051e7f2cf10def0b27ee8092864b3dc11e264de7cfbeb"
+    },
+    "archive/research/game/climber/guided/pairfactory/RESULTS.tsv": {
+      "bytes": 3199,
+      "sha256": "19eeb4e5456544ca27c75df0fcff769db5757219230a4ca2fd6894120af53edc"
+    },
+    "archive/research/game/climber/guided/pairfactory/RESULTS2.tsv": {
+      "bytes": 5235,
+      "sha256": "1aee1325f47de2fc4b669544bead85a0178394b3138ea951b27f5f63e69223c5"
+    },
+    "archive/research/game/climber/guided/pairfactory/TAILS_B.tsv": {
+      "bytes": 535,
+      "sha256": "f0ed76f70b78778889f3172a15b1b03cd9067804f287822ba78ae3580b2fe5a2"
+    },
+    "archive/research/game/climber/guided/PAIRS_39.tsv": {
+      "bytes": 24606,
+      "sha256": "6624ad62c17b8d07d1ec7635d3f04d707257be33c770bdd3f5a4841df0abc6c0"
+    },
+    "archive/research/game/climber/guided/scan40_topslide/census_0.tsv": {
+      "bytes": 1128,
+      "sha256": "8e564903a5f58ab7b8e6b0ccd0a47404db05b2736b2371029c4646f601bdfad3"
+    },
+    "archive/research/game/climber/guided/scan40_topslide/scan_driver.py": {
+      "bytes": 10596,
+      "sha256": "91fa85bf3435f617d9131c70b4f8c7daa447857c351ff7cff42ff6f28739eb13"
+    },
+    "archive/research/game/climber/guided/scan40_topslide/TARGETS_top.json": {
+      "bytes": 6940,
+      "sha256": "9697bd9c76e452f7b0946c20ba3d9012e2d01005ab9b0a0eb0bba88ad32591c2"
+    },
+    "archive/research/game/climber/guided/sparsedoor/price.py": {
+      "bytes": 2921,
+      "sha256": "4cffee4381b371da3049e646d5f36629492ba93696c8e421bd9adcb215eb5959"
+    },
+    "archive/research/game/climber/guided/sparsedoor/RESULT.txt": {
+      "bytes": 1640,
+      "sha256": "48e2d65b07155ef2902f81f11a3b7be6cb8d09d959d0f9b4c71f68f3006b8620"
+    },
+    "archive/research/game/climber/guided/TAIL_VALUE_OVERLAY.tsv": {
+      "bytes": 2211,
+      "sha256": "8d0b541eba8f7cc019af8fbd183d9e3200238165035fccf2ac9d9879f0c8ecbf"
+    },
+    "archive/research/game/climber/guided/w38p/steer/classmap/alpha_set_W10_64.tsv": {
+      "bytes": 1024,
+      "sha256": "34d192cb862e5ae0a90d31b6b7c5a9140776d85da69900e62c0e9036b1182797"
+    },
+    "archive/research/game/climber/guided/w38p/steer/classmap/CLASS_MAP_38.tsv": {
+      "bytes": 1086,
+      "sha256": "e796d8bd8940a4535c203a4d9fa2e011793562bb0cd962dbcd62823712fc7dbf"
+    },
+    "archive/research/game/climber/guided/wiggle/FOUND_w_W1_s1.txt": {
+      "bytes": 856,
+      "sha256": "65fcdcab4b7376a2ee9e214fff236dd6d6c41d7752964b8053e0593319793499"
+    },
+    "archive/research/game/climber/kb/knowledge.js": {
+      "bytes": 3196507,
+      "sha256": "73b16adee396b5a4f5e8c7129001971538f4d96903280e4a2c2a789996570e8e"
+    },
+    "archive/research/game/climber/MAP_README.md": {
+      "bytes": 2245,
+      "sha256": "62498519075f09cf03435ac8d1900dc71cd99ccdc101c41b3e87fe37ee5d68e4"
+    },
+    "archive/research/game/climber/README.md": {
+      "bytes": 1043,
+      "sha256": "87992e4a0e6c6797ee97d9432d02e026eb3872dcc87429e6084ce0fd8ee13569"
+    },
+    "archive/research/game/climber/SCIENCE_ENGINE_SPEC.md": {
+      "bytes": 22814,
+      "sha256": "2c0ac9502e20bd2a14d13f9529bb7a0385080a53a5c461f21756627acccf3f1f"
+    },
+    "archive/research/newpaths/literature/papers/2010_043.txt": {
+      "bytes": 394,
+      "sha256": "3b43da4fa956b9ba79e6d8f79168bcaa031673629faa8547349ed4319ba61ea4"
+    },
+    "archive/research/newpaths/literature/papers/2010_355.txt": {
+      "bytes": 394,
+      "sha256": "b938c89018a004f8f68315e176c1ba04f98a34b28f8364428071f0cf71add46a"
+    },
+    "archive/research/newpaths/literature/papers/2013_467.txt": {
+      "bytes": 394,
+      "sha256": "79b9f8699cd6250ad18616cfe37843d6ff574ea45d585044c4f5a7e420557f78"
+    },
+    "archive/research/newpaths/literature/papers/2014_1012.txt": {
+      "bytes": 396,
+      "sha256": "71904e2c725a913e0c73b578dfe91a7d4e52bf6c58fe7849cd6cea529ef6232f"
+    },
+    "archive/research/newpaths/literature/papers/2019_1492.txt": {
+      "bytes": 396,
+      "sha256": "8e476297683ee8fc9e9393666e81fd3df2803812f551cb15a3d1cf812b672daa"
+    },
+    "archive/research/newpaths/literature/papers/2021_1529.txt": {
+      "bytes": 396,
+      "sha256": "850a28aa77882f82b7e443585ca5bf3e8933961fd1bc457a832fc55e5a403ca6"
+    },
+    "archive/research/newpaths/literature/papers/2021_427.txt": {
+      "bytes": 394,
+      "sha256": "c8174065cb9c2ef974f773e7971947aa41c1ac4f6085725be34d6d7b49a55535"
+    },
+    "archive/research/newpaths/literature/papers/blake3_spec.txt": {
+      "bytes": 342,
+      "sha256": "eabed210d7c0468e3da90041630c35472423bfa8e363a64a90d9df49e988bb19"
+    },
+    "archive/research/newpaths/literature/papers/cr_BLAKE2_attack.json": {
+      "bytes": 20776,
+      "sha256": "2b66b61943a868ca5684aafb9498501b20024cd7fbb66da65bfcd1ceba183e99"
+    },
+    "archive/research/newpaths/literature/papers/cr_BLAKE3.json": {
+      "bytes": 30946,
+      "sha256": "24004048f00395f992b2596d24eb2661145e921627dac273db0ffea8de318b58"
+    },
+    "archive/research/newpaths/literature/papers/cr_BLAKE_round-reduced.json": {
+      "bytes": 12485,
+      "sha256": "f0f6044bf38f89775d43bfd11cc700f4a7e885741d760d978c7e084e1b7e8a7a"
+    },
+    "archive/research/newpaths/literature/papers/efk15_hod.txt": {
+      "bytes": 340,
+      "sha256": "544bb210cd13c336ea883832f10eb2684b9549f7bc44ed093f0e605bd4bd0cf0"
+    },
+    "archive/research/newpaths/literature/papers/ehash_blake.html": {
+      "bytes": 406,
+      "sha256": "cd2de0f8aa05cb3b8fce4ceec49936d28ec541696f909e1f2bbd6d27bdf59dac"
+    },
+    "archive/research/newpaths/literature/papers/ehash_blake.txt": {
+      "bytes": 405,
+      "sha256": "e9a2960340e96d19e040ca1f9c06873aaee04b4c72c645b02c5c08c3c9d73a59"
+    },
+    "archive/research/newpaths/literature/papers/kln11_observations_on_blake_slides.txt": {
+      "bytes": 365,
+      "sha256": "1e4f3ade16a5097998481a89a6f71c3ff2f029934db0828d86f247542c889801"
+    },
+    "archive/research/newpaths/literature/papers/leurent_ac12.txt": {
+      "bytes": 343,
+      "sha256": "b7945e9ed868be4adf19465661b6b503d9159a92fbe79c7cd90ec01d9e5e145e"
+    },
+    "archive/research/newpaths/literature/papers/li_xu_2009_238.txt": {
+      "bytes": 345,
+      "sha256": "ced53dc0c5d3011c9ae1186135a9916811db36712a4e7dc0bc5e818dbf73ec55"
+    },
+    "archive/research/newpaths/negative_space/AXES.md": {
+      "bytes": 3710,
+      "sha256": "40a2d425be61d094dfe2f6a1a3ae83ed1fc913e383ab4b88ef27f997bfd01a66"
+    },
+    "archive/research/newpaths/negative_space/build.py": {
+      "bytes": 25549,
+      "sha256": "12467a63956bdc6144735ffde454cbed0d76fb2c1abb1db151a35c01a7de0de6"
+    },
+    "archive/research/newpaths/negative_space/cells.csv": {
+      "bytes": 262108,
+      "sha256": "07b3049037e065e4c94edd000e7a934c368b6fe4e61e28e5e5396a902eb23065"
+    },
+    "archive/research/newpaths/negative_space/cells_pre_1017_backup.csv": {
+      "bytes": 14841,
+      "sha256": "f3a96458fe7a8f3d47939977f819e28175eaab34653a97901e1dd129cea6af6b"
+    },
+    "archive/research/newpaths/negative_space/GAPS.md": {
+      "bytes": 9433,
+      "sha256": "af9e59924eca8c7d11916832d7dd179da0aa2bf143ad79c5e752ca5401b1634f"
+    },
+    "archive/research/newpaths/negative_space/GRIDS.md": {
+      "bytes": 4223,
+      "sha256": "4bdc6e43abf037d84b5befd405221e97269b2c4c926d37ebf80b7ac47fceaf44"
+    },
+    "archive/research/newpaths/negative_space/make_chart.py": {
+      "bytes": 5269,
+      "sha256": "ecbd1db92d30c9de4b327ce2d365c36a751ee4f8d1cfba33ee01700bc36634f5"
+    },
+    "archive/research/newpaths/negative_space/method_map.html": {
+      "bytes": 74547,
+      "sha256": "1ec5dfce2744ab4ea8707f098c3c2f2ab6ec4f7877cc8cb405e844f7c03ea1db"
+    },
+    "archive/research/newpaths/negative_space/records.csv": {
+      "bytes": 53675,
+      "sha256": "418f0b021cbe6bd40ecbf9966f4d6a3aa4bc1c7310c6f3d4ac3a74970400a5bf"
+    },
+    "archive/research/papers/_blocked_downloads/2026_150_challenge.html": {
+      "bytes": 314,
+      "sha256": "1171caae07de8edbee2685a0c7cb30508d372b0edcc31106c5015ffc4608be6f"
+    },
+    "archive/research/papers/_blocked_downloads/2026_2107_challenge.html": {
+      "bytes": 315,
+      "sha256": "f66d7b8b235803f87a97a112aaf34052826246255659c126c090d4dea5f83983"
+    },
+    "archive/research/papers/_html_rejects/degree_2022_366.html": {
+      "bytes": 306,
+      "sha256": "9df5f27f9f4af3165a900e90e117f339898e3883a3400829213eb332b77b9c0a"
+    },
+    "archive/research/papers/_html_rejects/eprint_2008_131.html": {
+      "bytes": 361,
+      "sha256": "8d51e3f6c00e5bddc53dffd60081e36204205cca9bb9f20e17ca5a1a89377993"
+    },
+    "archive/research/papers/_html_rejects/eprint_2008_270.html": {
+      "bytes": 361,
+      "sha256": "d696f8011f7a751bb62d293b23a5acd23d08d483c50bce763f5e3170efbdbeed"
+    },
+    "archive/research/papers/_html_rejects/eprint_2011_286.html": {
+      "bytes": 361,
+      "sha256": "d6736b34e761c9eba688bd51bd7aa10c1c5e6a20d5f4abe3fa1d2ecbc672fce9"
+    },
+    "archive/research/papers/_html_rejects/eprint_2014_302.html": {
+      "bytes": 361,
+      "sha256": "16e4b59e4c1fec63e4f561a64c2628b7f6a4fb9be3779d516ba720e06f38487a"
+    },
+    "archive/research/papers/_html_rejects/eprint_2015_350.html": {
+      "bytes": 361,
+      "sha256": "13010175bbd64e19528731f25909ca5cf9b0604b9b21ff39b49fb7a79e58c13e"
+    },
+    "archive/research/papers/_html_rejects/eprint_2016_374.html": {
+      "bytes": 361,
+      "sha256": "2eca871d5142ab78356806c4ed6c296f19e407f19372d475a10843a2cff82b97"
+    },
+    "archive/research/papers/_html_rejects/eprint_2021_292.html": {
+      "bytes": 361,
+      "sha256": "e24f1df59b9033e837e1949a04b9ce7fadb0dc69b339541c41c5756ac3789751"
+    },
+    "archive/research/papers/_html_rejects/eprint_2023_285.html": {
+      "bytes": 361,
+      "sha256": "3593c68482eb1d39c1ef6b2fe54d5350db9751d6e5b195302035495b07ac5982"
+    },
+    "archive/research/papers/_html_rejects/eprint_2026_1080.html": {
+      "bytes": 363,
+      "sha256": "a85993fe855f2dfdc3fb7f2ae48530c5d570f961fd28d47bec9d66b269e9e3a3"
+    },
+    "archive/research/papers/_html_rejects/eprint_2026_232.html": {
+      "bytes": 361,
+      "sha256": "ee69ff1c69b2f86bf245bfa96b18ce235307b24e508c564cf00e27a8b68eb506"
+    },
+    "archive/research/papers/_html_rejects/eprint_2026_353.html": {
+      "bytes": 361,
+      "sha256": "9144a26be6220190794fc548eb5d24907828ad01c29c72d96159bf29c040e7c6"
+    },
+    "archive/research/papers/_html_rejects/hades_linear_2020_179.html": {
+      "bytes": 312,
+      "sha256": "16e7097f51eeb5b3a6a1f3eac9b45f23f4b43e83b25e3551bba666fa34a71142"
+    },
+    "archive/research/papers/_html_rejects/interpolation_2020_182.html": {
+      "bytes": 313,
+      "sha256": "9907077df86268007bccce1b206806fd7d4586803cb779aa196d8ae5fe816131"
+    },
+    "archive/research/papers/_html_rejects/interpolation_2020_188.html": {
+      "bytes": 313,
+      "sha256": "9d910184930a9a4e36c67e77746b561607fd6269386900e1050d84c19d7a2bfa"
+    },
+    "archive/research/papers/_html_rejects/poseidon2_2025_1893.html": {
+      "bytes": 310,
+      "sha256": "d9e0507c3613676d87370e7f5ccf3eb1d9ba491bba00a009884c3d7e23057d89"
+    },
+    "archive/research/papers/_html_rejects/poseidon_cico_2026_1579.html": {
+      "bytes": 314,
+      "sha256": "495234c6d7af7d33fcec28e36009a91d030ac836fccfe2323c8aaa5786d1efd9"
+    },
+    "archive/research/papers/_html_rejects/poseidon_cico_2026_1692.html": {
+      "bytes": 314,
+      "sha256": "8d5aff6785ef3228c99c32bcee66fc711fb58f883083627532d9f3265918cedd"
+    },
+    "archive/research/papers/_html_rejects/resultant_2026_1281.html": {
+      "bytes": 310,
+      "sha256": "2a08c80585c9419ffba4afac0deb557451ecae476cbb7a1b46390672aad36f1d"
+    },
+    "archive/research/papers/_html_rejects/root_finding_2025_1916.html": {
+      "bytes": 313,
+      "sha256": "0ff60c67644a81b0a16a58aa891e218962be183555b03e7c4b8fd71383be9555"
+    },
+    "archive/research/papers/_html_rejects/survey_2026_1931.html": {
+      "bytes": 307,
+      "sha256": "cc679a34cb1511f29c008cbe1eb43ce7845f88b7d0866064b67da0518daa96a5"
+    },
+    "archive/research/sha256grid/grid2/render_check.js": {
+      "bytes": 1790,
+      "sha256": "c7c8976da717130f2cb2c48e7db653c4460f20d37a590487b2d3fc45b358b961"
+    },
+    "archive/research/site/collision-curves.html": {
+      "bytes": 15291,
+      "sha256": "27b8597e859d52cf9d57d742610cf3b2f6cef16be6b078807578185df32ad30d"
+    }
+  }
+}

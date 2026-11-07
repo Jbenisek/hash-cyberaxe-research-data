@@ -1,0 +1,73 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    ".gitattributes": {
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    ".gitignore": {
+      "bytes": 29,
+      "sha256": "d0a6a997df038f7269c75058e8ffef1ee3f77153cb861a36125b6441d5a5f116"
+    },
+    "AGENTS.md": {
+      "bytes": 531,
+      "sha256": "8672e48cb264e8d5befd4b38831c4051f99dc2756f70ca7c580ef9e0259151ea"
+    },
+    "ASSETS.json": {
+      "bytes": 3523,
+      "sha256": "77570610f6aefb6ca7d98cd1e4c12c16879e22659b14d4242fe57a3429bbea4e"
+    },
+    "cell-record.schema.json": {
+      "bytes": 2126,
+      "sha256": "b65c130c2ae9a1882087c38a7eb073bde7a53012d0a142bc48ee904d1f3a7645"
+    },
+    "CELLBOOK_SUMMARY.json": {
+      "bytes": 449,
+      "sha256": "0e24e212c03d7d3618785320c970dde881d21b92d48fdaebc91eaf6dd4db6b1d"
+    },
+    "checksums/bulk-tables.json": {
+      "bytes": 2685,
+      "sha256": "9efced9da082fe93e940a8c700ae9170ea7d568a62478092fdb9920b5908af7a"
+    },
+    "checksums/cellbook.json": {
+      "bytes": 660088,
+      "sha256": "c62fdf649ff3802d60971dad18050d6ced7f06a690daa067a8f7ca1261730e10"
+    },
+    "checksums/exact-source-bundles.json": {
+      "bytes": 39079,
+      "sha256": "32da1636ef0a4e8ef90ea5125ed600d4c16e9b6a039ab6c14f25bf602f07467d"
+    },
+    "checksums/field-guide-exports.json": {
+      "bytes": 3401822,
+      "sha256": "0535c1674a70ee9c8dd9b841f3980649cdfd4fff319758ce0cdfc75f83941720"
+    },
+    "checksums/library-indexes.json": {
+      "bytes": 100158,
+      "sha256": "5efc7d65f0f5f20e4810c4aea6b59bca5e16dd8dd11ca242d5249e23c04998c3"
+    },
+    "checksums/supporting-downloads.json": {
+      "bytes": 20265,
+      "sha256": "0f3675ce3061afc7fccc6f2a9a54a8d3073f76856f6c66f90e830f2888f5f73e"
+    },
+    "EDITORIAL_EDITION.json": {
+      "bytes": 39395,
+      "sha256": "b84189b79be335b3ae27c4005c6c6b6edc76178085ffdc31da05eccdfba58851"
+    },
+    "list_cells.py": {
+      "bytes": 1368,
+      "sha256": "0478caab0b84729a5e3da12d7aed67d52993df78e4f7fd3e6b75844e2821287a"
+    },
+    "README.md": {
+      "bytes": 5652,
+      "sha256": "04077edd8674fbba9364c569aafcbee1c3ea2adf6010d7f52efaba8324ba77e0"
+    },
+    "VERIFICATION.json": {
+      "bytes": 1170,
+      "sha256": "c047275ddb1d788452f69feb9f664c73570806b1dfe92d1c8f5d557507f784c9"
+    },
+    "verify_release.py": {
+      "bytes": 2874,
+      "sha256": "d9c2f61ea7768a0d117f6ad491a4c0dce5dda15b7b5fb34c1b593f9da3611b70"
+    }
+  }
+}

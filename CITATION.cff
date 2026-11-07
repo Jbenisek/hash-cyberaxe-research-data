@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "HASH$CyberAxe: research data"
+type: dataset
+authors:
+  - given-names: Jeremy
+    family-names: Benisek
+    alias: CyberAxe
+    website: "https://cyberaxe.dev/"
+url: "https://hashcyberaxe.com/"
+repository-code: "https://github.com/Jbenisek/hash-cyberaxe-research-data"
+license:
+  - MIT
+  - CC-BY-4.0
+date-released: "2026-11-06"
+abstract: "The research data behind the HASH$CyberAxe library: 1,227,001 typed scientific cell records, the historical experiment tables, the exact-source bundles, the library's machine indexes and the readable field guides. This repository holds the schemas, manifests, a verifier and a cell reader; the large archives are attached to its Release. Use it to analyse the data yourself, check a result against its saved records, or build on the cell format."
+keywords:
+  - cryptanalysis
+  - SHA-256
+  - BLAKE3
+  - SHA-3
+  - Poseidon
+  - reproducibility

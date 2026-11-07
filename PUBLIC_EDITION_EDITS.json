@@ -1,0 +1,46 @@
+{
+  "edition": "HASH$CyberAxe public GitHub edition 2026-11-06",
+  "note": "Files edited for the public edition, each with its reason; nothing else in them changed. Recorded digests (manifests, replay pins) were updated to the published bytes. original_sha256 identifies the library's archived bytes.",
+  "files": [
+    {
+      "path": "ASSETS.json",
+      "reasons": [
+        "exact-source release zip rebuilt for the public edition without other teams' boards, AI agent session notes and slur-list scripts (3920 files)"
+      ],
+      "original_sha256": "8ca0e78147bcc1471f457be6077a937ad70f33aaccf154eac81982d1185547e4",
+      "original_bytes": 3304,
+      "published_sha256": "77570610f6aefb6ca7d98cd1e4c12c16879e22659b14d4242fe57a3429bbea4e",
+      "published_bytes": 3523
+    },
+    {
+      "path": "checksums/exact-source-bundles.json",
+      "reasons": [
+        "exact-source release zip rebuilt for the public edition without other teams' boards, AI agent session notes and slur-list scripts (3920 files)"
+      ],
+      "original_sha256": "6aa84e234c7b1dd8878c976c176316c47b13c662c6201a49c125aab4720d87f9",
+      "original_bytes": 39718,
+      "published_sha256": "32da1636ef0a4e8ef90ea5125ed600d4c16e9b6a039ab6c14f25bf602f07467d",
+      "published_bytes": 39079
+    },
+    {
+      "path": "README.md",
+      "reasons": [
+        "exact-source release zip rebuilt for the public edition without other teams' boards, AI agent session notes and slur-list scripts (3920 files)"
+      ],
+      "original_sha256": "e7915e46f753743fb71f287c781847f5568ac38cbc98937f92db0b5b114edea5",
+      "original_bytes": 5285,
+      "published_sha256": "280574091d62da62e8f6e6be428e22f8d5ac03d7e506bdf4591859389238be61",
+      "published_bytes": 5378
+    },
+    {
+      "path": "release asset HASH-CyberAxe-exact-source-bundles-2026-11-05.zip",
+      "reasons": [
+        "exact-source release zip rebuilt for the public edition without other teams' boards, AI agent session notes and slur-list scripts (3920 files)"
+      ],
+      "original_sha256": "4372925f1a8bce13d68753d3ca1a821cdf0bc182bebbebc96a7aa1b2f0d165ca",
+      "original_bytes": 545486742,
+      "published_sha256": "3721648e7e376e565d3132ee7b771d48d7160da05bbafd5eba05e05e2c057a8f",
+      "published_bytes": 449308661
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HashSmash projected scientific cell record, version 1",
+  "type": "object",
+  "required": ["id", "entity", "original_id", "kind", "protocol", "protocol_basis", "rounds", "recorded_status", "fields", "publication_holds", "source_payload_sha256", "source_appearances", "source_appearance_count"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[0-9a-f]{64}$", "description": "SHA-256 of kind, newline, canonical original parsed row. Does not include source appearance."},
+    "entity": {"type": "string", "description": "Linking label, not a guarantee that conflicting editions describe equivalent instances."},
+    "original_id": {"type": "string"},
+    "kind": {"type": "string"},
+    "protocol": {"enum": ["sha256", "sha3", "blake3", "poseidon", "unassigned"]},
+    "protocol_basis": {"type": "string"},
+    "rounds": {"type": ["integer", "null"], "description": "Explicit target depth or parsed target suffix. Not notebook row_i, filename digits or digest width."},
+    "recorded_status": {"type": "string", "description": "Original recorded disposition, not a fresh scientific verdict."},
+    "fields": {"type": "object", "description": "Projected scientific source fields. Personal/operational fields are excluded; flagged text is held."},
+    "publication_holds": {"type": "array"},
+    "source_payload_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "source_appearances": {"type": "array", "minItems": 1, "maxItems": 8, "items": {"type": "object", "required": ["source_id", "parsed_record_ordinal"], "properties": {"source_id": {"type": "string", "pattern": "^[0-9a-f]{64}$"}, "parsed_record_ordinal": {"type": "integer", "minimum": 1}}}},
+    "source_appearance_count": {"type": "integer", "minimum": 1}
+  },
+  "description": "Raw data and frozen source snapshots remain private when they contain non-public fields. Use occurrences.csv for all source edges, sources.json for original-file SHA-256 pins and manifest.json for pinned projected chunks. Different typed layers are not interchangeable scientific units."
+}

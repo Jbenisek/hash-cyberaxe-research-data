@@ -1,0 +1,65 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "bulk/LATTICE_READING.md": {
+      "bytes": 582,
+      "sha256": "69937243e17a91f1d0f2b7bf27f2d793ad2f046b39afc2a9a87dc2aefa903698"
+    },
+    "bulk/research/dig/CELLS.jsonl": {
+      "bytes": 9728678,
+      "sha256": "a70fcd39cdebc55b544ba41c9931b863802d2837d55f7d3fff0213e7e3039daa"
+    },
+    "bulk/research/dig/CELLS_pre_qa1017_backup.jsonl": {
+      "bytes": 8396069,
+      "sha256": "0c296067b4e959652495dff7f8840cc83c97ed55771c6d00da3879f528841ee1"
+    },
+    "bulk/research/dig/CELLS_pre_scout1017_backup.jsonl": {
+      "bytes": 8520494,
+      "sha256": "8d2892f05078a7157ef49bca68bfa2eb522e4a8aaf105abf254ef3da6d73d897"
+    },
+    "bulk/research/fifties/perspectives/rotational/out_ctx_scan.tsv": {
+      "bytes": 21603893,
+      "sha256": "97cb1fed8a2ca17d0864591c5292754d7553d47c6f327e5c7288f82ce5623b56"
+    },
+    "bulk/research/fifties/perspectives/rotational/out_rand_scan.tsv": {
+      "bytes": 24249527,
+      "sha256": "6a989b9df504da53fcee498661618376af62809dc0402aea8ac98b3214829e26"
+    },
+    "bulk/research/fifties/solverlevers/scores_pc.txt": {
+      "bytes": 6368915,
+      "sha256": "ad3428dd60c0b54c68098234be89bf6805419e908352a95c1a8cebc7635c716b"
+    },
+    "bulk/research/fifties/solverwork/pass_list_P.txt": {
+      "bytes": 22119390,
+      "sha256": "e876c815831f7e44b4048fea2ec974196ad21195d6b90fa6a0cbf8ab89e52736"
+    },
+    "bulk/research/fifties/solverwork/pass_list_R.txt": {
+      "bytes": 22147181,
+      "sha256": "0a9656cb2b2d04b32da5de6d977be28e709cf3f3850e19cdaaace44036b7d7bb"
+    },
+    "bulk/research/game/climber/MAP_DATA.jsonl": {
+      "bytes": 96477835,
+      "sha256": "c30556c8bc3f66f703b65cccd6a7347f863b378a869364dda75c883e668d24ef"
+    },
+    "bulk/research/luna/audit_packets/research_overlay_1028/ledger.tsv": {
+      "bytes": 5276455,
+      "sha256": "b6cf4f2a434a753a8cffc8b7e6e41533af7749a5d83b9aadb5ed25842ede2971"
+    },
+    "bulk/research/luna/audit_packets/research_overlay_1028/OVERLAY_ALL.tsv": {
+      "bytes": 13877042,
+      "sha256": "5bdb828e532544a7447d199774b4e63253a7532bab306b0d0e205cbdd728cc52"
+    },
+    "bulk/research/luna/audit_packets/research_overlay_1028/runs_lattice_125700.tsv": {
+      "bytes": 32743651,
+      "sha256": "25649f7f960ba890cf9cee3af974ffc5900a9346db83f03f4bb9b729a4fd30d2"
+    },
+    "bulk/research/newpaths/collision_pattern/feat_out8.txt": {
+      "bytes": 36966760,
+      "sha256": "0f22a83b10aa25dc738c16b9930d088c8cd6e2a4ef6e4886c4b2f92ba1dbdd8c"
+    },
+    "bulk/research/newpaths/separable/k8_sample200k.txt": {
+      "bytes": 6692962,
+      "sha256": "cea1374a0988326237268137be0404eed5b0c0851aa54125c1a753a5680c47b0"
+    }
+  }
+}

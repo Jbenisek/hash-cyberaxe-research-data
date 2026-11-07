@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "datasets": [
+    {
+      "dataset": "cellbook",
+      "files_verified": 4418
+    },
+    {
+      "dataset": "bulk-tables",
+      "files_verified": 15
+    },
+    {
+      "dataset": "exact-source-bundles",
+      "files_verified": 225
+    },
+    {
+      "dataset": "library-indexes",
+      "files_verified": 684
+    },
+    {
+      "dataset": "supporting-downloads",
+      "files_verified": 129
+    },
+    {
+      "dataset": "field-guide-exports",
+      "files_verified": 21625
+    }
+  ],
+  "self_test": {
+    "passed": true,
+    "identity_control": true,
+    "changed_bytes_rejected": true
+  },
+  "bounded_cell_reader_records": 3,
+  "cell_manifest_chunk_pins_verified": 4368,
+  "asset_bytes": 899790605,
+  "website_changed": false,
+  "published": false,
+  "guide_export_editorial": {
+    "passed": true,
+    "edition": "showcase-20261105-v2",
+    "members_verified": 21625,
+    "guides_match_current_shards": 7202,
+    "historical_asset_sha256": "d144e9ef8bf2466abb2d22154b5943ebab30d2ed6204eec06f5dde636e0d9666",
+    "current_asset_sha256": "68cee36b77b2f8c7f7ed08e0783548f9ed934191bcc4a766cb20687f3a27f20e",
+    "other_assets_unchanged": true
+  }
+}

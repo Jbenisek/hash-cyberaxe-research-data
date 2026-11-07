@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "edition": "2026-11-05",
+  "datasets": [
+    {
+      "id": "cellbook",
+      "purpose": "Typed scientific records, source appearances, schemas and joined indexes.",
+      "filename": "HASH-CyberAxe-cellbook-2026-11-05.zip",
+      "bytes": 230726712,
+      "sha256": "aecc2424d9ca9f3b3d9668b6f8651950bc67aa50558af6f41caa07a68b4be53b",
+      "files": 4418,
+      "expanded_bytes": 1817738779,
+      "member_manifest": "checksums/cellbook.json",
+      "download_url": null
+    },
+    {
+      "id": "bulk-tables",
+      "purpose": "Published game, lattice and experiment tables with historical source paths.",
+      "filename": "HASH-CyberAxe-bulk-tables-2026-11-05.zip",
+      "bytes": 53320221,
+      "sha256": "753d9aaa4e6d3c4f61dad9d120aa1cc0a738699239eea149b1fe48093e0d84b8",
+      "files": 15,
+      "expanded_bytes": 315169434,
+      "member_manifest": "checksums/bulk-tables.json",
+      "download_url": null
+    },
+    {
+      "id": "exact-source-bundles",
+      "purpose": "Exact-source ZIP bundles, extraction indexes and retained unpacked browser sources.",
+      "filename": "HASH-CyberAxe-exact-source-bundles-2026-11-05.zip",
+      "bytes": 449308661,
+      "sha256": "3721648e7e376e565d3132ee7b771d48d7160da05bbafd5eba05e05e2c057a8f",
+      "files": 221,
+      "expanded_bytes": 449267541,
+      "member_manifest": "checksums/exact-source-bundles.json",
+      "download_url": null,
+      "public_edition": "Rebuilt 2026-11-06 for the public GitHub edition: 3920 files left out (other teams' competition boards, AI agent session notes, slur-list filter scripts); every kept source is byte-identical."
+    },
+    {
+      "id": "library-indexes",
+      "purpose": "Catalogue, toolkit, guides, trajectories and other published machine indexes.",
+      "filename": "HASH-CyberAxe-library-indexes-2026-11-05.zip",
+      "bytes": 26653636,
+      "sha256": "7d4a200d1c30919170287ee8a091b4cc4cc380f025f38ec432e7c7bb02ca49e1",
+      "files": 684,
+      "expanded_bytes": 147769820,
+      "member_manifest": "checksums/library-indexes.json",
+      "download_url": null
+    },
+    {
+      "id": "supporting-downloads",
+      "purpose": "Published non-ZIP source instructions, numerical tables and example checkers.",
+      "filename": "HASH-CyberAxe-supporting-downloads-2026-11-05.zip",
+      "bytes": 6963114,
+      "sha256": "cac0f3ba74f72d4738d3cf189a0a51e713e6495a9c81d58792b9f42fab719458",
+      "files": 129,
+      "expanded_bytes": 24748919,
+      "member_manifest": "checksums/supporting-downloads.json",
+      "download_url": null
+    },
+    {
+      "id": "field-guide-exports",
+      "purpose": "Readable HTML, JSON and Markdown guide exports.",
+      "filename": "field-guide-original-exports.zip",
+      "bytes": 36640180,
+      "sha256": "68cee36b77b2f8c7f7ed08e0783548f9ed934191bcc4a766cb20687f3a27f20e",
+      "files": 21625,
+      "expanded_bytes": 82403440,
+      "member_manifest": "checksums/field-guide-exports.json",
+      "download_url": null,
+      "historical_asset": {
+        "id": "field-guide-exports",
+        "purpose": "Readable HTML, JSON and Markdown guide exports.",
+        "filename": "field-guide-original-exports.zip",
+        "bytes": 35312658,
+        "sha256": "d144e9ef8bf2466abb2d22154b5943ebab30d2ed6204eec06f5dde636e0d9666",
+        "files": 21625,
+        "expanded_bytes": 76809587,
+        "member_manifest": "checksums/field-guide-exports.json",
+        "download_url": null
+      },
+      "editorial_edition": "showcase-20261105-v2"
+    }
+  ]
+}
