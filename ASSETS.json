@@ -17,12 +17,13 @@
       "id": "bulk-tables",
       "purpose": "Published game, lattice and experiment tables with historical source paths.",
       "filename": "HASH-CyberAxe-bulk-tables-2026-11-05.zip",
-      "bytes": 53320221,
-      "sha256": "753d9aaa4e6d3c4f61dad9d120aa1cc0a738699239eea149b1fe48093e0d84b8",
-      "files": 15,
-      "expanded_bytes": 315169434,
+      "bytes": 51483614,
+      "sha256": "c8963006541e2b3f4bca080a1ad5084c0ca13d6e3c708945816c4b9a81239052",
+      "files": 12,
+      "expanded_bytes": 263272286,
       "member_manifest": "checksums/bulk-tables.json",
-      "download_url": null
+      "download_url": null,
+      "public_edition": "Rebuilt 2026-11-06 for the public GitHub edition: 3 files left out (other teams' material, AI agent session notes and audits, slur-list filter scripts); every kept file is byte-identical."
     },
     {
       "id": "exact-source-bundles",
@@ -34,7 +35,7 @@
       "expanded_bytes": 449267541,
       "member_manifest": "checksums/exact-source-bundles.json",
       "download_url": null,
-      "public_edition": "Rebuilt 2026-11-06 for the public GitHub edition: 3920 files left out (other teams' competition boards, AI agent session notes, slur-list filter scripts); every kept source is byte-identical."
+      "public_edition": "Rebuilt 2026-11-06 for the public GitHub edition: 3920 files left out (other teams' material, AI agent session notes and audits, slur-list filter scripts); every kept file is byte-identical."
     },
     {
       "id": "library-indexes",

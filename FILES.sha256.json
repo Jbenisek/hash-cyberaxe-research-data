@@ -14,8 +14,8 @@
       "sha256": "8672e48cb264e8d5befd4b38831c4051f99dc2756f70ca7c580ef9e0259151ea"
     },
     "ASSETS.json": {
-      "bytes": 3523,
-      "sha256": "77570610f6aefb6ca7d98cd1e4c12c16879e22659b14d4242fe57a3429bbea4e"
+      "bytes": 3737,
+      "sha256": "41873d0826bd146ece154f32cfbffc7444b64e2d5cbf9534ae2eb810fe95c424"
     },
     "cell-record.schema.json": {
       "bytes": 2126,
@@ -26,8 +26,8 @@
       "sha256": "0e24e212c03d7d3618785320c970dde881d21b92d48fdaebc91eaf6dd4db6b1d"
     },
     "checksums/bulk-tables.json": {
-      "bytes": 2685,
-      "sha256": "9efced9da082fe93e940a8c700ae9170ea7d568a62478092fdb9920b5908af7a"
+      "bytes": 2098,
+      "sha256": "cdbbf01c70aa33caa8cf043dc207586e900f60f55793af0e5f0f4ee8b75195b9"
     },
     "checksums/cellbook.json": {
       "bytes": 660088,
@@ -58,8 +58,8 @@
       "sha256": "0478caab0b84729a5e3da12d7aed67d52993df78e4f7fd3e6b75844e2821287a"
     },
     "README.md": {
-      "bytes": 5652,
-      "sha256": "04077edd8674fbba9364c569aafcbee1c3ea2adf6010d7f52efaba8324ba77e0"
+      "bytes": 5773,
+      "sha256": "7e5506e25eae6f70871ce8307a0158c9d2ccfdc2335991106a38163d1cdba1b8"
     },
     "VERIFICATION.json": {
       "bytes": 1170,
